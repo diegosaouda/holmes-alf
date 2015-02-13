@@ -3,7 +3,7 @@
 
 ## Holmes OAuth 2 Sync/Async Clients Wrapper
 
-holmes-alf is a wrapper for OAuth 2 synchronous (based on [alf](https://github.com/globocom/alf)) and asynchronous (based on the [tornado-alf](https://github.com/globocom/tornado-alf)) clients that can bu used in [holmes](https://github.com/holmes-app/holmes-api).
+holmes-alf is a wrapper for OAuth 2 synchronous (based on [alf](https://github.com/globocom/alf)) and asynchronous (based on the [tornado-alf](https://github.com/globocom/tornado-alf)) clients that can be used in [holmes](https://github.com/holmes-app/holmes-api).
 
 ## Features
 
